@@ -52,3 +52,5 @@ if prediksi_baru[0] == 1:
     print("\nMesin berisiko gagal.")
 else:
     print("\nMesin dalam kondisi aman.")
+
+    
